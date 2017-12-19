@@ -1,3 +1,5 @@
 ticket/
 node_modules/
 build/
+truffle.js
+script/ownerList.csv

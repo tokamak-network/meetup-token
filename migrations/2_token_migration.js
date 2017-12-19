@@ -1,7 +1,6 @@
-const GAZUAToken = artifacts.require("./GAZUAToken.sol");
+var GAZUAToken = artifacts.require("GAZUAToken.sol");
 
-module.exports = function(deployer) {
- deployer.deploy(GAZUAToken);
- console.log(GAZUAToken)
-
+module.exports = async function(deployer) {
+    const gazua = await GAZUAToken.new();
+    console.log('token is deployed at: ', gazua)
 };
