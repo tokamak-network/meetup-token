@@ -23,9 +23,9 @@ function getAllTokens(address owner)
 function updateMessage(uint _tokenId, string _personalMessage)
 ```
 - getMessage
-'''
+```
  function getMessage(uint _tokenId)
-'''
+```
 
 
 Contract Deploy
