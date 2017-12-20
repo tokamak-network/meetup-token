@@ -1,6 +1,6 @@
 #GAZUA Token
-=============
-Seoul Ethereum Meetup Collectible Token ("Ethereum $1,000 GAZUA!") based on </br>[EIP721](https://github.com/ethereum/EIPs/issues/721)
+
+Seoul Ethereum Meetup Collectible Token ("Ethereum $1,000 GAZUA!") based on [EIP721](https://github.com/ethereum/EIPs/issues/721)
 
 ###Description
 - GAZUA is a Collectible token issued by Seoul Ethereum Meetup
@@ -34,12 +34,4 @@ function updateMessage(uint _tokenId, string _personalMessage)
 ```
 
 ###How To use MyEtherWallet
-- </br>[Documents](https://docs.google.com/presentation/d/1GWHFmxOPuPRzOZkbkl7viRgAWA3abIsQ55QM4d06gAw/edit#slide=id.g2c5a7f4d60_0_0)
-
-
-
-
-
-
-
-
+- [Documents](https://docs.google.com/presentation/d/1GWHFmxOPuPRzOZkbkl7viRgAWA3abIsQ55QM4d06gAw/edit#slide=id.g2c5a7f4d60_0_0)
